@@ -2,6 +2,7 @@
 title: "Mysql学习笔记之入门杂谈"
 data: 2017-02-18 12:12:12
 tags: [Mysql, note]
+categories: mysql 
 ---
 
 ### 环境  

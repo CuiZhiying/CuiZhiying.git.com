@@ -2,6 +2,7 @@
 title: "Mysql data type"
 date: 2017-03-15 12:12:12
 tags: [Mysql, note]
+categories: mysql 
 ---
 
 ##### 整形   

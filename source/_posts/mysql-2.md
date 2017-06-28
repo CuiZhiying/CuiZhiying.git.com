@@ -2,6 +2,7 @@
 title: "Mysql之创建数据库"
 date: 2017-02-02 12:12:12
 tags: [Mysql, note]
+categories: mysql 
 ---
 
 ##### 创建数据库

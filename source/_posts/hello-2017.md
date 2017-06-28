@@ -1,7 +1,8 @@
 ---
 title: hello_2017
 date: 2017-06-27 01:34:30
-tags: [flag]
+tags: [flag, life]
+categories: life
 ---
 
 ## 在2017年的最开始一个小时
